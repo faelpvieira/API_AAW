@@ -1,0 +1,14 @@
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\1222377\Desktop\Aula2\WebAPI\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
